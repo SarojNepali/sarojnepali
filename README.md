@@ -1,7 +1,5 @@
-# Sarojnepali
-Professional portfolio — Civil Engineering, CAD Design, Land Survey, Facilities Planning, Data Science, Python, and Power BI.
 SAROJ NEPALI
-       Facilities Planning • CAD • Data Science
+       Civil Engineering • Facilities Planning • CAD • 3D Design • Data Science
 
        Building Data → Automation → Insights
 
@@ -11,7 +9,7 @@ SAROJ NEPALI
 
 ABOUT
 
-Facilities Planning + CAD professional
+Civil Engineering- Facilities Planning + CAD professional
 transitioning into Data Science.
 
 ──────────────────────────────────────────────
