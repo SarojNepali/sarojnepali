@@ -1,7 +1,5 @@
 SAROJ NEPALI
-       Civil Engineering • Facilities Planning • CAD • 3D Design • Data Science
-
-       Building Data → Automation → Insights
+Civil Engineering + CAD + Facilities Planning + Data Science | Projects, automation, and digital solutions
 
               [ View Projects ]
 
