@@ -1,4 +1,4 @@
-SAROJ NEPALI
+**SAROJ NEPALI**
 
 🏗️ Civil Engineering | 📐 CAD & Facilities Planning | 💻 Computer Science | 📊 Data Science
 
