@@ -89,16 +89,17 @@ Currently pursuing
 🎓 University of the People
 B.S. Computer Science — Cum Laude
 
+🎓 Tribhuvan University — Paschimanchal Campus
+Civil Engineering Coursework
+
 🎓 Pokhara Engineering College
 Diploma in Computer Engineering
 
-🎓 Tribhuvan University — Paschimanchal Campus
-Civil Engineering Coursework
 
 💼 Professional Experience
 Roswell Park Comprehensive Cancer Center
 
-Senior CAD Technician — Facilities Planning
+Senior CAD Designer — Facilities Planning
 
 📍 Buffalo, New York
 
@@ -107,6 +108,7 @@ Campus surveying and mapping
 Facility planning support
 Building and floor-plan documentation
 Coordination with architects, engineers, and facilities teams
+
 Civil Engineering & Construction — Nepal
 
 Civil Engineer | Building Designer | Site Supervisor
