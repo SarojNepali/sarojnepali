@@ -1,5 +1,5 @@
 SAROJ NEPALI
-──────────────────────────────────────────────
+
 Civil Engineering + CAD + Facilities Planning + Data Science | Projects, automation, and digital solutions
 
               [ View Projects ]
