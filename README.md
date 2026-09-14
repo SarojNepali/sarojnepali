@@ -7,8 +7,11 @@ Civil Engineering | CAD 2D s& 3D | Facilities Planning | Data Science
 
 ABOUT
 
-Civil Engineering- Facilities Planning + CAD professional
-transitioning into Data Science.
+I am a multidisciplinary professional with a background in Civil Engineering, Computer Science, CAD design, surveying, and facilities planning.
+
+My professional experience combines more than 8 years of engineering, building design, construction supervision, surveying, and project coordination in Nepal with my current work in Facilities Planning and CAD at Roswell Park Comprehensive Cancer Center in Buffalo, New York.
+
+I am now expanding my technical background into Data Science, Python, SQL, data visualization, automation, and AI, with a particular interest in applying technology to the built environment and facilities management.
 
 ──────────────────────────────────────────────
 
