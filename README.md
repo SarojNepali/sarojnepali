@@ -22,9 +22,7 @@ AutoCAD | Surveying | Python | SQL | Power BI
 
 FEATURED PROJECTS
 
-Facilities Space Dashboard
-AutoCAD Data Extraction
-Campus Facilities Analytics
+Building Design-2D/3D | Building Construction | Construction Supervision | Road Design Survey | Hydropower Preliminary Design Project Final year project | Land Survey | Facilities Planning | Facilities Space Planning 
 
 ──────────────────────────────────────────────
 
